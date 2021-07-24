@@ -1,0 +1,2877 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-07-25T01:07:22.428+03:00
+  initializedAtString: 2021-07-25T01:04:08.962+03:00
+  log:
+  - commitID: e04ee63b772c7858b7e1e09d207d8b9f7e89c50e
+    mergeA: 
+    mergeB: 
+    authorName: Sercan Evyapan
+    authorEmail: sercanevyapan@outlook.com
+    commitEmail: sercanevyapan@outlook.com
+    commitName: Sercan Evyapan
+    summary: add new main level
+    description: 
+    timeString: 2021-07-25T01:01:25.000+03:00
+    commitTimeString: 2021-07-25T01:01:25.000+03:00
+    changes:
+    - path: Assets\Artwork\Levels\new tiles.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles.meta
+      projectPath: Assets\Artwork\Levels\new tiles.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\New Palette.prefab
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\New
+        Palette.prefab
+      projectPath: Assets\Artwork\Levels\new tiles\New Palette.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\New Palette.prefab.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\New
+        Palette.prefab.meta
+      projectPath: Assets\Artwork\Levels\new tiles\New Palette.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\crack.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\crack.asset
+      projectPath: Assets\Artwork\Levels\new tiles\crack.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\crack.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\crack.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\crack.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\crack_1.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\crack_1.asset
+      projectPath: Assets\Artwork\Levels\new tiles\crack_1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\crack_1.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\crack_1.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\crack_1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\crack_3.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\crack_3.asset
+      projectPath: Assets\Artwork\Levels\new tiles\crack_3.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\crack_3.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\crack_3.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\crack_3.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\crack_4.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\crack_4.asset
+      projectPath: Assets\Artwork\Levels\new tiles\crack_4.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\crack_4.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\crack_4.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\crack_4.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\door.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\door.asset
+      projectPath: Assets\Artwork\Levels\new tiles\door.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\door.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\door.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\door.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\floor_1.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\floor_1.asset
+      projectPath: Assets\Artwork\Levels\new tiles\floor_1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\floor_1.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\floor_1.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\floor_1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\floor_3.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\floor_3.asset
+      projectPath: Assets\Artwork\Levels\new tiles\floor_3.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\floor_3.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\floor_3.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\floor_3.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_0.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_0.asset
+      projectPath: Assets\Artwork\Levels\new tiles\wall_0.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_0.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_0.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\wall_0.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_1.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_1.asset
+      projectPath: Assets\Artwork\Levels\new tiles\wall_1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_1.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_1.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\wall_1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_10.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_10.asset
+      projectPath: Assets\Artwork\Levels\new tiles\wall_10.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_10.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_10.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\wall_10.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_11.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_11.asset
+      projectPath: Assets\Artwork\Levels\new tiles\wall_11.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_11.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_11.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\wall_11.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_12.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_12.asset
+      projectPath: Assets\Artwork\Levels\new tiles\wall_12.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_12.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_12.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\wall_12.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_13.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_13.asset
+      projectPath: Assets\Artwork\Levels\new tiles\wall_13.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_13.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_13.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\wall_13.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_14.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_14.asset
+      projectPath: Assets\Artwork\Levels\new tiles\wall_14.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_14.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_14.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\wall_14.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_3.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_3.asset
+      projectPath: Assets\Artwork\Levels\new tiles\wall_3.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_3.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_3.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\wall_3.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_4.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_4.asset
+      projectPath: Assets\Artwork\Levels\new tiles\wall_4.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_4.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_4.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\wall_4.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_5.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_5.asset
+      projectPath: Assets\Artwork\Levels\new tiles\wall_5.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_5.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_5.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\wall_5.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_6.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_6.asset
+      projectPath: Assets\Artwork\Levels\new tiles\wall_6.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_6.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_6.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\wall_6.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_7.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_7.asset
+      projectPath: Assets\Artwork\Levels\new tiles\wall_7.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_7.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_7.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\wall_7.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_8.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_8.asset
+      projectPath: Assets\Artwork\Levels\new tiles\wall_8.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_8.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_8.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\wall_8.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_9.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_9.asset
+      projectPath: Assets\Artwork\Levels\new tiles\wall_9.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_9.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_9.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\wall_9.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_img1.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_img1.asset
+      projectPath: Assets\Artwork\Levels\new tiles\wall_img1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\new tiles\wall_img1.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\new tiles\wall_img1.asset.meta
+      projectPath: Assets\Artwork\Levels\new tiles\wall_img1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\dungeon.png.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\dungeon.png.meta
+      projectPath: Assets\Artwork\dungeon.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Main.unity
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scenes\Main.unity
+      projectPath: Assets\Scenes\Main.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameManager.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\GameManager.cs
+      projectPath: Assets\Scripts\GameManager.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 484f1f90ed861cae8faa08b014f367ddd8a35c88
+    mergeA: 
+    mergeB: 
+    authorName: Sercan Evyapan
+    authorEmail: sercanevyapan@outlook.com
+    commitEmail: sercanevyapan@outlook.com
+    commitName: Sercan Evyapan
+    summary: add project
+    description: 
+    timeString: 2021-07-24T19:49:11.000+03:00
+    commitTimeString: 2021-07-24T19:49:11.000+03:00
+    changes:
+    - path: Assets\Scenes\Main.unity
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scenes\Main.unity
+      projectPath: Assets\Scenes\Main.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 9f40f4df45cfe22b25dc4eb3f15f1a1da6f26e45
+    mergeA: 
+    mergeB: 
+    authorName: Sercan Evyapan
+    authorEmail: sercanevyapan@outlook.com
+    commitEmail: sercanevyapan@outlook.com
+    commitName: Sercan Evyapan
+    summary: add project
+    description: 
+    timeString: 2021-07-24T19:44:49.000+03:00
+    commitTimeString: 2021-07-24T19:44:49.000+03:00
+    changes:
+    - path: .vsconfig
+      fullPath: C:\unity_projects\TopDungeon\.vsconfig
+      projectPath: .vsconfig
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork.meta
+      projectPath: Assets\Artwork.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations.meta
+      projectPath: Assets\Artwork\Animations.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\DEathMenu_Hiding.anim
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\DEathMenu_Hiding.anim
+      projectPath: Assets\Artwork\Animations\DEathMenu_Hiding.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\DEathMenu_Hiding.anim.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\DEathMenu_Hiding.anim.meta
+      projectPath: Assets\Artwork\Animations\DEathMenu_Hiding.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\DeathMenu.controller
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\DeathMenu.controller
+      projectPath: Assets\Artwork\Animations\DeathMenu.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\DeathMenu.controller.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\DeathMenu.controller.meta
+      projectPath: Assets\Artwork\Animations\DeathMenu.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\DeathMenu_Showing.anim
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\DeathMenu_Showing.anim
+      projectPath: Assets\Artwork\Animations\DeathMenu_Showing.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\DeathMenu_Showing.anim.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\DeathMenu_Showing.anim.meta
+      projectPath: Assets\Artwork\Animations\DeathMenu_Showing.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\Menu.controller
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\Menu.controller
+      projectPath: Assets\Artwork\Animations\Menu.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\Menu.controller.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\Menu.controller.meta
+      projectPath: Assets\Artwork\Animations\Menu.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\Torch.controller
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\Torch.controller
+      projectPath: Assets\Artwork\Animations\Torch.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\Torch.controller.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\Torch.controller.meta
+      projectPath: Assets\Artwork\Animations\Torch.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\Weapon.controller
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\Weapon.controller
+      projectPath: Assets\Artwork\Animations\Weapon.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\Weapon.controller.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\Weapon.controller.meta
+      projectPath: Assets\Artwork\Animations\Weapon.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\menu_hidden.anim
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\menu_hidden.anim
+      projectPath: Assets\Artwork\Animations\menu_hidden.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\menu_hidden.anim.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\menu_hidden.anim.meta
+      projectPath: Assets\Artwork\Animations\menu_hidden.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\menu_showing.anim
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\menu_showing.anim
+      projectPath: Assets\Artwork\Animations\menu_showing.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\menu_showing.anim.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\menu_showing.anim.meta
+      projectPath: Assets\Artwork\Animations\menu_showing.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\torch.anim
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\torch.anim
+      projectPath: Assets\Artwork\Animations\torch.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\torch.anim.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\torch.anim.meta
+      projectPath: Assets\Artwork\Animations\torch.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\weapon_idle.anim
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\weapon_idle.anim
+      projectPath: Assets\Artwork\Animations\weapon_idle.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\weapon_idle.anim.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\weapon_idle.anim.meta
+      projectPath: Assets\Artwork\Animations\weapon_idle.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\weapon_swing.anim
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\weapon_swing.anim
+      projectPath: Assets\Artwork\Animations\weapon_swing.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Animations\weapon_swing.anim.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Animations\weapon_swing.anim.meta
+      projectPath: Assets\Artwork\Animations\weapon_swing.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Atlas.png
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Atlas.png
+      projectPath: Assets\Artwork\Atlas.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Atlas.png.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Atlas.png.meta
+      projectPath: Assets\Artwork\Atlas.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels.meta
+      projectPath: Assets\Artwork\Levels.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles.meta
+      projectPath: Assets\Artwork\Levels\Tiles.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\Floor_1.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\Floor_1.asset
+      projectPath: Assets\Artwork\Levels\Tiles\Floor_1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\Floor_1.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\Floor_1.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\Floor_1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\crate_.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\crate_.asset
+      projectPath: Assets\Artwork\Levels\Tiles\crate_.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\crate_.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\crate_.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\crate_.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\crate_1.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\crate_1.asset
+      projectPath: Assets\Artwork\Levels\Tiles\crate_1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\crate_1.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\crate_1.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\crate_1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\crate_2.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\crate_2.asset
+      projectPath: Assets\Artwork\Levels\Tiles\crate_2.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\crate_2.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\crate_2.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\crate_2.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\crate_3.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\crate_3.asset
+      projectPath: Assets\Artwork\Levels\Tiles\crate_3.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\crate_3.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\crate_3.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\crate_3.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_0.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_0.asset
+      projectPath: Assets\Artwork\Levels\Tiles\floor_0.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_0.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_0.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\floor_0.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_10.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_10.asset
+      projectPath: Assets\Artwork\Levels\Tiles\floor_10.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_10.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_10.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\floor_10.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_11.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_11.asset
+      projectPath: Assets\Artwork\Levels\Tiles\floor_11.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_11.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_11.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\floor_11.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_12.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_12.asset
+      projectPath: Assets\Artwork\Levels\Tiles\floor_12.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_12.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_12.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\floor_12.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_2.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_2.asset
+      projectPath: Assets\Artwork\Levels\Tiles\floor_2.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_2.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_2.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\floor_2.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_3.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_3.asset
+      projectPath: Assets\Artwork\Levels\Tiles\floor_3.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_3.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_3.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\floor_3.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_4.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_4.asset
+      projectPath: Assets\Artwork\Levels\Tiles\floor_4.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_4.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_4.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\floor_4.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_5.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_5.asset
+      projectPath: Assets\Artwork\Levels\Tiles\floor_5.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_5.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_5.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\floor_5.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_6.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_6.asset
+      projectPath: Assets\Artwork\Levels\Tiles\floor_6.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_6.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_6.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\floor_6.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_7.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_7.asset
+      projectPath: Assets\Artwork\Levels\Tiles\floor_7.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_7.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_7.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\floor_7.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_8.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_8.asset
+      projectPath: Assets\Artwork\Levels\Tiles\floor_8.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_8.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_8.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\floor_8.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_9.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_9.asset
+      projectPath: Assets\Artwork\Levels\Tiles\floor_9.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\floor_9.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\floor_9.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\floor_9.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\healingFountain_0.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\healingFountain_0.asset
+      projectPath: Assets\Artwork\Levels\Tiles\healingFountain_0.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\healingFountain_0.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\healingFountain_0.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\healingFountain_0.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\healingFountain_1.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\healingFountain_1.asset
+      projectPath: Assets\Artwork\Levels\Tiles\healingFountain_1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\healingFountain_1.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\healingFountain_1.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\healingFountain_1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\healingFountain_2.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\healingFountain_2.asset
+      projectPath: Assets\Artwork\Levels\Tiles\healingFountain_2.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\healingFountain_2.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\healingFountain_2.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\healingFountain_2.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\stairs_0.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\stairs_0.asset
+      projectPath: Assets\Artwork\Levels\Tiles\stairs_0.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\stairs_0.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\stairs_0.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\stairs_0.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\stairs_1.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\stairs_1.asset
+      projectPath: Assets\Artwork\Levels\Tiles\stairs_1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\stairs_1.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\stairs_1.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\stairs_1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\stairs_2.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\stairs_2.asset
+      projectPath: Assets\Artwork\Levels\Tiles\stairs_2.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\stairs_2.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\stairs_2.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\stairs_2.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\stairs_3.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\stairs_3.asset
+      projectPath: Assets\Artwork\Levels\Tiles\stairs_3.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\stairs_3.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\stairs_3.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\stairs_3.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\sutun_0.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\sutun_0.asset
+      projectPath: Assets\Artwork\Levels\Tiles\sutun_0.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\sutun_0.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\sutun_0.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\sutun_0.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\sutun_1.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\sutun_1.asset
+      projectPath: Assets\Artwork\Levels\Tiles\sutun_1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\sutun_1.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\sutun_1.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\sutun_1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\sutun_2.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\sutun_2.asset
+      projectPath: Assets\Artwork\Levels\Tiles\sutun_2.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\sutun_2.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\sutun_2.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\sutun_2.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\torch_0.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\torch_0.asset
+      projectPath: Assets\Artwork\Levels\Tiles\torch_0.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\torch_0.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\torch_0.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\torch_0.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_1.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_1.asset
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_1.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_1.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_2.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_2.asset
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_2.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_2.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_2.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_2.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_3.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_3.asset
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_3.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_3.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_3.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_3.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_4.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_4.asset
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_4.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_4.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_4.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_4.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_5.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_5.asset
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_5.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_5.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_5.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_5.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_6.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_6.asset
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_6.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_6.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_6.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_6.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_7.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_7.asset
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_7.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_7.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_7.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_7.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_8.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_8.asset
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_8.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\tourch_8.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\tourch_8.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\tourch_8.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\varil_0.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\varil_0.asset
+      projectPath: Assets\Artwork\Levels\Tiles\varil_0.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\varil_0.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\varil_0.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\varil_0.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\varil_1.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\varil_1.asset
+      projectPath: Assets\Artwork\Levels\Tiles\varil_1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\varil_1.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\varil_1.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\varil_1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\varil_2.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\varil_2.asset
+      projectPath: Assets\Artwork\Levels\Tiles\varil_2.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\varil_2.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\varil_2.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\varil_2.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_0.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_0.asset
+      projectPath: Assets\Artwork\Levels\Tiles\wall_0.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_0.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_0.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\wall_0.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_1 1.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_1 1.asset
+      projectPath: Assets\Artwork\Levels\Tiles\wall_1 1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_1 1.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_1 1.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\wall_1 1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_1.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_1.asset
+      projectPath: Assets\Artwork\Levels\Tiles\wall_1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_1.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_1.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\wall_1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_2 1.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_2 1.asset
+      projectPath: Assets\Artwork\Levels\Tiles\wall_2 1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_2 1.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_2 1.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\wall_2 1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_2.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_2.asset
+      projectPath: Assets\Artwork\Levels\Tiles\wall_2.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_2.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_2.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\wall_2.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_3 1.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_3 1.asset
+      projectPath: Assets\Artwork\Levels\Tiles\wall_3 1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_3 1.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_3 1.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\wall_3 1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_3.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_3.asset
+      projectPath: Assets\Artwork\Levels\Tiles\wall_3.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_3.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_3.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\wall_3.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_4.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_4.asset
+      projectPath: Assets\Artwork\Levels\Tiles\wall_4.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_4.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_4.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\wall_4.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_5.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_5.asset
+      projectPath: Assets\Artwork\Levels\Tiles\wall_5.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_5.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_5.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\wall_5.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_6.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_6.asset
+      projectPath: Assets\Artwork\Levels\Tiles\wall_6.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_6.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_6.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\wall_6.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_7.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_7.asset
+      projectPath: Assets\Artwork\Levels\Tiles\wall_7.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_7.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_7.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\wall_7.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_8.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_8.asset
+      projectPath: Assets\Artwork\Levels\Tiles\wall_8.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_8.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_8.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\wall_8.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_9.asset
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_9.asset
+      projectPath: Assets\Artwork\Levels\Tiles\wall_9.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Levels\Tiles\wall_9.asset.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\Levels\Tiles\wall_9.asset.meta
+      projectPath: Assets\Artwork\Levels\Tiles\wall_9.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\dungeon.png
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\dungeon.png
+      projectPath: Assets\Artwork\dungeon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\dungeon.png.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\dungeon.png.meta
+      projectPath: Assets\Artwork\dungeon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\prstart.ttf
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\prstart.ttf
+      projectPath: Assets\Artwork\prstart.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\prstart.ttf.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\prstart.ttf.meta
+      projectPath: Assets\Artwork\prstart.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\prstartk.ttf
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\prstartk.ttf
+      projectPath: Assets\Artwork\prstartk.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\prstartk.ttf.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Artwork\prstartk.ttf.meta
+      projectPath: Assets\Artwork\prstartk.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Chest.prefab
+      fullPath: C:\unity_projects\TopDungeon\Assets\Prefabs\Chest.prefab
+      projectPath: Assets\Prefabs\Chest.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Chest.prefab.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Prefabs\Chest.prefab.meta
+      projectPath: Assets\Prefabs\Chest.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\FloatingText.prefab
+      fullPath: C:\unity_projects\TopDungeon\Assets\Prefabs\FloatingText.prefab
+      projectPath: Assets\Prefabs\FloatingText.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\FloatingText.prefab.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Prefabs\FloatingText.prefab.meta
+      projectPath: Assets\Prefabs\FloatingText.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SingleCreate.prefab
+      fullPath: C:\unity_projects\TopDungeon\Assets\Prefabs\SingleCreate.prefab
+      projectPath: Assets\Prefabs\SingleCreate.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SingleCreate.prefab.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Prefabs\SingleCreate.prefab.meta
+      projectPath: Assets\Prefabs\SingleCreate.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SmallEnemy.prefab
+      fullPath: C:\unity_projects\TopDungeon\Assets\Prefabs\SmallEnemy.prefab
+      projectPath: Assets\Prefabs\SmallEnemy.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SmallEnemy.prefab.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Prefabs\SmallEnemy.prefab.meta
+      projectPath: Assets\Prefabs\SmallEnemy.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Torch.prefab
+      fullPath: C:\unity_projects\TopDungeon\Assets\Prefabs\Torch.prefab
+      projectPath: Assets\Prefabs\Torch.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Torch.prefab.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Prefabs\Torch.prefab.meta
+      projectPath: Assets\Prefabs\Torch.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TwoCrates.prefab
+      fullPath: C:\unity_projects\TopDungeon\Assets\Prefabs\TwoCrates.prefab
+      projectPath: Assets\Prefabs\TwoCrates.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TwoCrates.prefab.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Prefabs\TwoCrates.prefab.meta
+      projectPath: Assets\Prefabs\TwoCrates.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Dungeon1.unity
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scenes\Dungeon1.unity
+      projectPath: Assets\Scenes\Dungeon1.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Dungeon1.unity.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scenes\Dungeon1.unity.meta
+      projectPath: Assets\Scenes\Dungeon1.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Main.unity
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scenes\Main.unity
+      projectPath: Assets\Scenes\Main.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Main.unity.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scenes\Main.unity.meta
+      projectPath: Assets\Scenes\Main.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Boss.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Boss.cs
+      projectPath: Assets\Scripts\Boss.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Boss.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Boss.cs.meta
+      projectPath: Assets\Scripts\Boss.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CameraMotor.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\CameraMotor.cs
+      projectPath: Assets\Scripts\CameraMotor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CameraMotor.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\CameraMotor.cs.meta
+      projectPath: Assets\Scripts\CameraMotor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CharacterMenu.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\CharacterMenu.cs
+      projectPath: Assets\Scripts\CharacterMenu.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CharacterMenu.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\CharacterMenu.cs.meta
+      projectPath: Assets\Scripts\CharacterMenu.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Chest.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Chest.cs
+      projectPath: Assets\Scripts\Chest.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Chest.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Chest.cs.meta
+      projectPath: Assets\Scripts\Chest.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Collectable.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Collectable.cs
+      projectPath: Assets\Scripts\Collectable.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Collectable.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Collectable.cs.meta
+      projectPath: Assets\Scripts\Collectable.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Collidable.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Collidable.cs
+      projectPath: Assets\Scripts\Collidable.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Collidable.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Collidable.cs.meta
+      projectPath: Assets\Scripts\Collidable.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Crate.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Crate.cs
+      projectPath: Assets\Scripts\Crate.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Crate.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Crate.cs.meta
+      projectPath: Assets\Scripts\Crate.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Damage.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Damage.cs
+      projectPath: Assets\Scripts\Damage.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Damage.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Damage.cs.meta
+      projectPath: Assets\Scripts\Damage.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\DontDestroy.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\DontDestroy.cs
+      projectPath: Assets\Scripts\DontDestroy.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\DontDestroy.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\DontDestroy.cs.meta
+      projectPath: Assets\Scripts\DontDestroy.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Enemy.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Enemy.cs
+      projectPath: Assets\Scripts\Enemy.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Enemy.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Enemy.cs.meta
+      projectPath: Assets\Scripts\Enemy.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\EnemyHitbox.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\EnemyHitbox.cs
+      projectPath: Assets\Scripts\EnemyHitbox.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\EnemyHitbox.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\EnemyHitbox.cs.meta
+      projectPath: Assets\Scripts\EnemyHitbox.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Fighter.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Fighter.cs
+      projectPath: Assets\Scripts\Fighter.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Fighter.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Fighter.cs.meta
+      projectPath: Assets\Scripts\Fighter.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\FloatingText.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\FloatingText.cs
+      projectPath: Assets\Scripts\FloatingText.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\FloatingText.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\FloatingText.cs.meta
+      projectPath: Assets\Scripts\FloatingText.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\FloatingTextManager.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\FloatingTextManager.cs
+      projectPath: Assets\Scripts\FloatingTextManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\FloatingTextManager.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\FloatingTextManager.cs.meta
+      projectPath: Assets\Scripts\FloatingTextManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameManager.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\GameManager.cs
+      projectPath: Assets\Scripts\GameManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameManager.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\GameManager.cs.meta
+      projectPath: Assets\Scripts\GameManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\HealingFountain.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\HealingFountain.cs
+      projectPath: Assets\Scripts\HealingFountain.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\HealingFountain.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\HealingFountain.cs.meta
+      projectPath: Assets\Scripts\HealingFountain.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Mover.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Mover.cs
+      projectPath: Assets\Scripts\Mover.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Mover.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Mover.cs.meta
+      projectPath: Assets\Scripts\Mover.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\NPCTextPerson.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\NPCTextPerson.cs
+      projectPath: Assets\Scripts\NPCTextPerson.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\NPCTextPerson.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\NPCTextPerson.cs.meta
+      projectPath: Assets\Scripts\NPCTextPerson.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Player.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Player.cs
+      projectPath: Assets\Scripts\Player.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Player.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Player.cs.meta
+      projectPath: Assets\Scripts\Player.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Portal.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Portal.cs
+      projectPath: Assets\Scripts\Portal.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Portal.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Portal.cs.meta
+      projectPath: Assets\Scripts\Portal.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Weapon.cs
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Weapon.cs
+      projectPath: Assets\Scripts\Weapon.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Weapon.cs.meta
+      fullPath: C:\unity_projects\TopDungeon\Assets\Scripts\Weapon.cs.meta
+      projectPath: Assets\Scripts\Weapon.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+      projectPath: Build Version\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+      projectPath: Build Version\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\2.0\machine.config
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\2.0\machine.config
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\2.0\machine.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\2.0\settings.map
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\2.0\settings.map
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\2.0\settings.map
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\2.0\web.config
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\2.0\web.config
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\2.0\web.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\4.0\machine.config
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\4.0\machine.config
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\4.0\machine.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\4.0\settings.map
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\4.0\settings.map
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\4.0\settings.map
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\4.0\web.config
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\4.0\web.config
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\4.0\web.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\4.5\machine.config
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\4.5\machine.config
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\4.5\machine.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\4.5\settings.map
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\4.5\settings.map
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\4.5\settings.map
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\4.5\web.config
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\4.5\web.config
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\4.5\web.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\browscap.ini
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\browscap.ini
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\browscap.ini
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\config
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\config
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\MonoBleedingEdge\etc\mono\mconfig\config.xml
+      fullPath: C:\unity_projects\TopDungeon\Build Version\MonoBleedingEdge\etc\mono\mconfig\config.xml
+      projectPath: Build Version\MonoBleedingEdge\etc\mono\mconfig\config.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon.exe
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon.exe
+      projectPath: Build Version\TopDungeon.exe
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\Assembly-CSharp.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\Assembly-CSharp.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\Mono.Security.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\Mono.Security.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\Mono.Security.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\Newtonsoft.Json.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\Newtonsoft.Json.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\Newtonsoft.Json.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.ComponentModel.Composition.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.ComponentModel.Composition.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.ComponentModel.Composition.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.Configuration.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.Configuration.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.Configuration.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.Core.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.Core.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.Core.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.Data.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.Data.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.Data.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.Diagnostics.StackTrace.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.Diagnostics.StackTrace.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.Diagnostics.StackTrace.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.Drawing.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.Drawing.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.Drawing.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.EnterpriseServices.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.EnterpriseServices.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.EnterpriseServices.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.Globalization.Extensions.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.Globalization.Extensions.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.Globalization.Extensions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.IO.Compression.FileSystem.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.IO.Compression.FileSystem.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.IO.Compression.FileSystem.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.IO.Compression.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.IO.Compression.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.IO.Compression.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.Net.Http.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.Net.Http.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.Net.Http.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.Numerics.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.Numerics.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.Numerics.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.Runtime.Serialization.Xml.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.Runtime.Serialization.Xml.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.Runtime.Serialization.Xml.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.Runtime.Serialization.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.Runtime.Serialization.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.Runtime.Serialization.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.ServiceModel.Internals.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.ServiceModel.Internals.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.ServiceModel.Internals.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.Transactions.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.Transactions.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.Transactions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.Xml.Linq.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.Xml.Linq.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.Xml.Linq.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.Xml.XPath.XDocument.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.Xml.XPath.XDocument.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.Xml.XPath.XDocument.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.Xml.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.Xml.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.Xml.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\System.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\System.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\System.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\Unity.2D.Animation.Runtime.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\Unity.2D.Animation.Runtime.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\Unity.2D.Animation.Runtime.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\Unity.2D.Common.Runtime.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\Unity.2D.Common.Runtime.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\Unity.2D.Common.Runtime.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\Unity.2D.IK.Runtime.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\Unity.2D.IK.Runtime.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\Unity.2D.IK.Runtime.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\Unity.2D.PixelPerfect.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\Unity.2D.PixelPerfect.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\Unity.2D.PixelPerfect.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\Unity.Mathematics.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\Unity.Mathematics.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\Unity.Mathematics.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\Unity.TextMeshPro.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\Unity.TextMeshPro.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\Unity.Timeline.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\Unity.Timeline.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.AIModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.AIModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.AIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.ARModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.ARModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.ARModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.AccessibilityModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.AccessibilityModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.AccessibilityModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.AndroidJNIModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.AndroidJNIModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.AndroidJNIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.AnimationModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.AnimationModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.AnimationModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.AssetBundleModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.AssetBundleModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.AssetBundleModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.AudioModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.AudioModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.AudioModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.ClothModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.ClothModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.ClothModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.ClusterInputModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.ClusterInputModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.ClusterInputModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.CoreModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.CoreModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.CoreModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.CrashReportingModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.CrashReportingModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.CrashReportingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.DSPGraphModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.DSPGraphModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.DSPGraphModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.DirectorModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.DirectorModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.DirectorModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.GIModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.GIModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.GIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.GameCenterModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.GameCenterModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.GameCenterModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.GridModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.GridModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.GridModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.HotReloadModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.HotReloadModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.HotReloadModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.IMGUIModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.IMGUIModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.IMGUIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.ImageConversionModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.ImageConversionModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.ImageConversionModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.InputLegacyModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.InputLegacyModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.InputLegacyModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.InputModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.InputModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.InputModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.LocalizationModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.LocalizationModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.LocalizationModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.Physics2DModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.Physics2DModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.Physics2DModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.PhysicsModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.PhysicsModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.PhysicsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.ProfilerModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.ProfilerModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.ProfilerModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.StreamingModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.StreamingModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.StreamingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.SubstanceModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.SubstanceModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.SubstanceModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.SubsystemsModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.SubsystemsModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.SubsystemsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.TLSModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.TLSModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.TLSModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.TerrainModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.TerrainModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.TerrainModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.TextCoreModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.TextCoreModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.TextCoreModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.TextRenderingModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.TextRenderingModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.TextRenderingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.TilemapModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.TilemapModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.TilemapModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.UI.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.UI.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.UIElementsModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.UIElementsModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.UIElementsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.UIModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.UIModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.UIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.UNETModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.UNETModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.UNETModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.UmbraModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.UmbraModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.UmbraModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityConnectModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.UnityConnectModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityConnectModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityCurlModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.UnityCurlModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityCurlModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.VFXModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.VFXModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.VFXModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.VRModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.VRModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.VRModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.VehiclesModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.VehiclesModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.VehiclesModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.VideoModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.VideoModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.VideoModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.VirtualTexturingModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.VirtualTexturingModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.VirtualTexturingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.WindModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.WindModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.WindModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.XRModule.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.XRModule.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.XRModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\UnityEngine.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\UnityEngine.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\UnityEngine.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\mscorlib.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\mscorlib.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\mscorlib.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Managed\netstandard.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Managed\netstandard.dll
+      projectPath: Build Version\TopDungeon_Data\Managed\netstandard.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Resources\unity default resources
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Resources\unity
+        default resources
+      projectPath: Build Version\TopDungeon_Data\Resources\unity default resources
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\Resources\unity_builtin_extra
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\Resources\unity_builtin_extra
+      projectPath: Build Version\TopDungeon_Data\Resources\unity_builtin_extra
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\RuntimeInitializeOnLoads.json
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\RuntimeInitializeOnLoads.json
+      projectPath: Build Version\TopDungeon_Data\RuntimeInitializeOnLoads.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\ScriptingAssemblies.json
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\ScriptingAssemblies.json
+      projectPath: Build Version\TopDungeon_Data\ScriptingAssemblies.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\app.info
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\app.info
+      projectPath: Build Version\TopDungeon_Data\app.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\boot.config
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\boot.config
+      projectPath: Build Version\TopDungeon_Data\boot.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\globalgamemanagers
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\globalgamemanagers
+      projectPath: Build Version\TopDungeon_Data\globalgamemanagers
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\globalgamemanagers.assets
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\globalgamemanagers.assets
+      projectPath: Build Version\TopDungeon_Data\globalgamemanagers.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\level0
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\level0
+      projectPath: Build Version\TopDungeon_Data\level0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\level1
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\level1
+      projectPath: Build Version\TopDungeon_Data\level1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\sharedassets0.assets
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\sharedassets0.assets
+      projectPath: Build Version\TopDungeon_Data\sharedassets0.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\sharedassets0.assets.resS
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\sharedassets0.assets.resS
+      projectPath: Build Version\TopDungeon_Data\sharedassets0.assets.resS
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\TopDungeon_Data\sharedassets1.assets
+      fullPath: C:\unity_projects\TopDungeon\Build Version\TopDungeon_Data\sharedassets1.assets
+      projectPath: Build Version\TopDungeon_Data\sharedassets1.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\UnityCrashHandler32.exe
+      fullPath: C:\unity_projects\TopDungeon\Build Version\UnityCrashHandler32.exe
+      projectPath: Build Version\UnityCrashHandler32.exe
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\UnityPlayer.dll
+      fullPath: C:\unity_projects\TopDungeon\Build Version\UnityPlayer.dll
+      projectPath: Build Version\UnityPlayer.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build Version\topdungeon.zip
+      fullPath: C:\unity_projects\TopDungeon\Build Version\topdungeon.zip
+      projectPath: Build Version\topdungeon.zip
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\unity_projects\TopDungeon\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: C:\unity_projects\TopDungeon\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PackageManagerSettings.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\SceneTemplateSettings.json
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\SceneTemplateSettings.json
+      projectPath: ProjectSettings\SceneTemplateSettings.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VersionControlSettings.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\unity_projects\TopDungeon\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\unity_projects\TopDungeon\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: a3f414f77eb968d49fb46b1308ae4411c29c73c4
+    mergeA: 
+    mergeB: 
+    authorName: Sercan Evyapan
+    authorEmail: sercanevyapan@outlook.com
+    commitEmail: sercanevyapan@outlook.com
+    commitName: Sercan Evyapan
+    summary: Initial commit
+    description: 
+    timeString: 2021-07-24T19:41:53.000+03:00
+    commitTimeString: 2021-07-24T19:41:53.000+03:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\unity_projects\TopDungeon\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\unity_projects\TopDungeon\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\unity_projects\TopDungeon\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
