@@ -10,7 +10,7 @@ public class GameManager : MonoBehaviour
     private void Awake()
     {
         //Reset save
-        //PlayerPrefs.DeleteAll();
+        PlayerPrefs.DeleteAll();
         if (GameManager.instance != null)
         {
             Destroy(gameObject);

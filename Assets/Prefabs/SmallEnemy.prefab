@@ -72,14 +72,14 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1356898351
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
-  m_Sprite: {fileID: -7548257428066557718, guid: 9264968ebd5082c4e8c70e8a94e9d69e, type: 3}
+  m_Sprite: {fileID: -9082389960718894291, guid: 51556242ec1f48e419871888a82b82ab, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.16, y: 0.16}
+  m_Size: {x: 0.12, y: 0.17}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -102,8 +102,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.16161616, y: 0.16161616}
-    newSize: {x: 0.16, y: 0.16}
+    oldSize: {x: 0.14141414, y: 0.17171717}
+    newSize: {x: 0.12, y: 0.17}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -124,11 +124,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitpoint: 3
-  maxHitpoint: 3
+  maxHitpoint: 5
   pushRecoverySpeed: 0.2
+  ySpeed: 1
+  xSpeed: 1.25
   xpValue: 10
-  triggerLenght: 0.3
-  chaseLenght: 1
+  triggerLenght: 1
+  chaseLenght: 5
   filter:
     useTriggers: 0
     useLayerMask: 0
