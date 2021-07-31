@@ -18,6 +18,8 @@ public class GameManager : MonoBehaviour
             Destroy(floatingTextManager.gameObject);
             Destroy(hud);
             Destroy(menu);
+            Destroy(mainMenu);
+           
             return;
         }
 
@@ -25,7 +27,15 @@ public class GameManager : MonoBehaviour
         SceneManager.sceneLoaded += LoadState;
         SceneManager.sceneLoaded += OnSceneLoaded;
 
+
     }
+
+    private void Update()
+    {
+        OpenMainMenu();
+        FinishGame();
+    }
+
 
     //Ressources
     public List<Sprite> playerSprites;
@@ -39,8 +49,12 @@ public class GameManager : MonoBehaviour
     public FloatingTextManager floatingTextManager;
     public RectTransform hitpointBar;
     public Animator deathMenuAnim;
+    public Animator finishMenuAnim;
     public GameObject hud;
     public GameObject menu;
+    public GameObject mainMenu;
+    public GameObject finishMenu;
+   
 
 
     // Logic
@@ -132,7 +146,14 @@ public class GameManager : MonoBehaviour
     public void Respawn()
     {
         deathMenuAnim.SetTrigger("Hide");
-        UnityEngine.SceneManagement.SceneManager.LoadScene("Main");
+        SceneManager.LoadScene("Main");
+        player.Respawn();
+    }
+
+    public void WinRespawn()
+    {
+        finishMenuAnim.SetTrigger("hide");
+        SceneManager.LoadScene("Main");
         player.Respawn();
     }
 
@@ -175,5 +196,32 @@ public class GameManager : MonoBehaviour
 
     }
 
+ public void QuitGame()
+    {
+        Application.Quit();
+    }
+     
+    public void OpenMainMenu()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (mainMenu.GetComponent<Animator>().GetCurrentAnimatorStateInfo(0).IsName("MainMenuClose"))
+                mainMenu.GetComponent<Animator>().SetTrigger("show");
+        }
+    }
+
+
+    public void FinishGame()
+    {
+        if (GameObject.Find("Enemy") != null)
+        {
+            if (GameObject.Find("Enemy").transform.childCount == 0)
+            {
+                finishMenu.GetComponent<Animator>().SetTrigger("show");
+                
+            }
+        }
+       
+    }
 
 }

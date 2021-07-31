@@ -221,6 +221,18 @@ TextureImporter:
   - first:
       213: -9082389960718894291
     second: enemy8
+  - first:
+      213: 4620249573124157813
+    second: sutun
+  - first:
+      213: 7490983843963699689
+    second: merdiven1
+  - first:
+      213: -4639977249564156503
+    second: bigbigboss
+  - first:
+      213: 2333286321731234867
+    second: bigbigbossitem
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1862,6 +1874,90 @@ TextureImporter:
       bones: []
       spriteID: d2bb6c7837ed4f180800000000000000
       internalID: -9082389960718894291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sutun
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 32
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57137b3f18c6e1040800000000000000
+      internalID: 4620249573124157813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merdiven1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 28
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e185adfd1255f760800000000000000
+      internalID: 7490983843963699689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigbigboss
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 176
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad95d1764d7b9fb0800000000000000
+      internalID: -4639977249564156503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigbigbossitem
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c611e1c8f716020800000000000000
+      internalID: 2333286321731234867
       vertices: []
       indices: 
       edges: []

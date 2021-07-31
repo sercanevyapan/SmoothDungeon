@@ -26,6 +26,7 @@ public class Player : Mover
     {
         isAlive = false;
         GameManager.instance.deathMenuAnim.SetTrigger("Show");
+      
     }
 
     private void FixedUpdate()
